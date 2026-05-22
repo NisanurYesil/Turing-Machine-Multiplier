@@ -9,4 +9,5 @@ Bu proje, ikili (binary) sayıları "Shift & Add" algoritmasını kullanarak ça
 Projeyi çalıştırmak için terminale şu komutu yazın:
 
 ```bash
-```python carpma_Turing.py
+python carpma_Turing.py
+```
