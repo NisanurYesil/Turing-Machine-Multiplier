@@ -5,6 +5,8 @@ Bu proje, ikili (binary) sayıları "Shift & Add" algoritmasını kullanarak ça
 ## Proje İçeriği
 - **carpma_Turing.py**: Turing makinesi algoritmasının Python kodları.
 
-## Kullanım
+### Kullanım
+Projeyi çalıştırmak için terminale şu komutu yazın:
+
 ```bash
 python carpma_Turing.py
