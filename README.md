@@ -10,3 +10,4 @@ Projeyi çalıştırmak için terminale şu komutu yazın:
 
 ```bash
 python carpma_Turing.py
+```
